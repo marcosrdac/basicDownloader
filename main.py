@@ -1,7 +1,3 @@
-#!/usr/bin/env python 3
-# -*- coding: utf-8 -*-
-
-
 import urllib.request
 import urllib.parse
 import chardet
